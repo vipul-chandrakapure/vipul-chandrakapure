@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vipul-chandrakapure
 - 👀 I’m interested in ...working with learners.
-- 🌱 I’m currently learning ...IT automation with Python(Course by Google)
-- 💞️ I’m looking to collaborate on ...for now it can be anything which I can do.
+- 🌱 I’m currently learning ...Google IT Support Professional Certificate (Course on course-era)
+- 💞️ I’m looking to collaborate on ...on HTML and CSS
 - 📫 How to reach me ...dm me on whatsapp (+91-7058148375) 
 
 <!---
