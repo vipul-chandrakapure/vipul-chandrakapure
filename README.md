@@ -4,7 +4,7 @@
 also I'm working on Computer Vision Finale Year Project.
 
 - Things I learned
-1. Google IT Support Professional Certificate (Course on course-era)
+1. (Not Completed) Google IT Support Professional Certificate (Course on course-era)
 2. Build Responsive Real-World Websites using HTML and CSS from Udemy(Jonas Schmedtmann)
 
 - 💞️ I’m looking to collaborate on ...on HTML and CSS
